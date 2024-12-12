@@ -4,13 +4,14 @@ class Solution {
         for(int gift:gifts)pq.add(gift);
         while(k-->0 && pq.size()>0){
             int n=pq.poll();
-            pq.add((int)Math.floor(Math.sqrt(n)));
+            pq.add((int)Math.sqrt(n));
         }
-        long sum=0;
-         while(pq.size()>0){
-            sum+=pq.poll();
-           
+        Object[] remaining = pq.toArray();
+        long result = 0;
+        for (Object pile : remaining) {
+            result += (int) pile;
         }
-        return sum;
+
+        return result;
     }
 }
