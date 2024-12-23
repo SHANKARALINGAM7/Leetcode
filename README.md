@@ -17,10 +17,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0724-find-pivot-index) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +36,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
