@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 
 class Solution {
     int t1Max = 0, t2Max = 0;
