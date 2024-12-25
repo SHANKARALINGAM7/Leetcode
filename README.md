@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
@@ -40,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -70,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -77,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
