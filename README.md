@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -47,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -65,5 +67,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
