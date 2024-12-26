@@ -1,25 +1,19 @@
 class Solution {
+    int count=0;
     public int findTargetSumWays(int[] nums, int target) {
-        int offset = 1000; 
-        int maxSum = 2000; 
-        
-        Integer[][] dp = new Integer[nums.length][maxSum + 1];
-        
-        return dfs(nums, target, 0, 0, dp, offset);
+          
+         help(nums,target,nums.length-1,0);
+         return count;
     }
-    
-    private int dfs(int[] nums, int target, int i, int sum, Integer[][] dp, int offset) {
-        if (i == nums.length) {
-            return sum == target ? 1 : 0;
+
+    public void help(int nums[],int target,int i,int sum){
+
+        if(i<-1)return;
+        if(i==-1){
+            if(sum==target)count++;
+            return ;
         }
-        if (dp[i][sum + offset] != null) {
-            return dp[i][sum + offset];
-        }
-        
-        int add = dfs(nums, target, i + 1, sum + nums[i], dp, offset);
-        int subtract = dfs(nums, target, i + 1, sum - nums[i], dp, offset);
-        
-        dp[i][sum + offset] = add + subtract;
-        return dp[i][sum + offset];
+        help(nums,target,i-1,sum+nums[i]);
+        help(nums,target,i-1,sum-nums[i]);
     }
 }
