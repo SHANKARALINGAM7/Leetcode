@@ -5,7 +5,7 @@ class Solution {
         String days[]={"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
         int mon[]={0,3,3,6,1,4,6,2,5,0,3,5};
         int monthCode=mon[month-1];
-        if(year%4==0 &&year!=2100){
+        if((year % 4 == 0 && year % 100 != 0) || year % 400 == 0){
             if(month==1)monthCode=6;
             else if(month==2)monthCode=2;
         }
