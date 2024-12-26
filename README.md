@@ -115,4 +115,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0207-course-schedule](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [1289-day-of-the-week](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1289-day-of-the-week) |
 <!---LeetCode Topics End-->
