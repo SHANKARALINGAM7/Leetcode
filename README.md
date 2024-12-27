@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0724-find-pivot-index) |
 | [1063-best-sightseeing-pair](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -111,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Topological Sort
 |  |
@@ -121,4 +123,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1289-day-of-the-week](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1289-day-of-the-week) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
