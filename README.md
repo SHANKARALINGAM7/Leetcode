@@ -40,6 +40,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1063-best-sightseeing-pair](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
@@ -141,5 +142,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0072-edit-distance](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
