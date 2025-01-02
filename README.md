@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -35,6 +36,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0724-find-pivot-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0724-find-pivot-index) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3207-make-three-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3207-make-three-strings-equal) |
 ## Stack
 |  |
