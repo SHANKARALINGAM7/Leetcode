@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0275-h-index-ii) |
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0724-find-pivot-index) |
 | [1025-minimum-cost-for-tickets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -122,6 +123,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0275-h-index-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
