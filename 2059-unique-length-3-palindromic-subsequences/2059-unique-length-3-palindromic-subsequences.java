@@ -8,12 +8,15 @@ class Solution {
         }
         for(int i=0;i<n-1;i++){
             if(freq[ch[i]-'a']==-1||freq[ch[i]-'a']==i||freq[ch[i]-'a']==i+1)continue;
-            Set<Character>set=new HashSet<>();
+            int arr[]=new int[26];
             for(int j=i+1;j<freq[ch[i]-'a'];j++){
-                set.add(ch[j]);
+                if(arr[ch[j]-'a']==0){
+                    count++;
+                    arr[ch[j]-'a']=1;
+                }
             }
             freq[ch[i]-'a']=-1;
-            count+=set.size();
+           
         }
         return count;
     }
