@@ -18,15 +18,9 @@ class Solution {
             arr[i]+=arr[i-1];
         }
         for(int i=0;i<n;i++){
-        if(arr[i]>=0){
-            arr[i]%=26;
-        ch[i] = (char)((ch[i]-'a'+arr[i] + 26)% 26 + 'a');
-        } 
-        else {
-            arr[i]*=-1;
-            arr[i]%=26;
-            ch[i] = (char)((ch[i]-'a'-arr[i] + 26)% 26 + 'a'); 
-        }
+        int num=((ch[i]-'a')+arr[i])%26;
+            if(num<0) num+=26;
+            ch[i]=(char)(num+'a');
         } 
         return String.valueOf(ch);
 
