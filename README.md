@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0724-find-pivot-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1025-minimum-cost-for-tickets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1524-string-matching-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -37,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1036-rotting-oranges) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Prefix Sum
@@ -94,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0547-number-of-provinces](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0813-all-paths-from-source-to-target](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1036-rotting-oranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1036-rotting-oranges) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
