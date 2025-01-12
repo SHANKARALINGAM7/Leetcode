@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0274-h-index) |
@@ -56,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -153,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -194,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
@@ -232,4 +236,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
