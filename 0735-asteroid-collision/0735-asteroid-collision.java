@@ -3,11 +3,8 @@ class Solution {
         Stack<Integer>st=new Stack<>();
         int n=arr.length;
         for(int i=n-1;i>=0;i--){
-            if(st.isEmpty())st.push(arr[i]);
-            else if(st.peek()>0 && arr[i]>0)st.push(arr[i]);
-            else if(st.peek()<0 && arr[i]<0)st.push(arr[i]);
-            else if(arr[i]>0){
-                //System.out.println(arr[i]);
+            if(st.isEmpty()||(st.peek()>0 && arr[i]>0)||(st.peek()<0 && arr[i]<0))st.push(arr[i]);
+            else if(arr[i]>0){;
                       while(!st.isEmpty() && st.peek()<0 && Math.abs(st.peek())<arr[i]){
                         st.pop();
                       }
@@ -18,7 +15,6 @@ class Solution {
             else if(arr[i]<0){
                         st.push(arr[i]); 
             }
-            //System.out.println(st);
         }
       int ans[]=new int[st.size()];
       int len=st.size();
