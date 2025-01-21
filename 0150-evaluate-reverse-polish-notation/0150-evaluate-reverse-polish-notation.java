@@ -20,7 +20,7 @@ class Solution {
             }
             else st.push(arr[i]);
         }
-        System.out.println(st);
+        //System.out.println(st);
         return Integer.parseInt(st.pop());
     }
 }
