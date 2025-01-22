@@ -29,7 +29,7 @@ class Solution {
             }
            }
             count++;
-            System.out.println(count);
+          //  System.out.println(count);
             
         }
         for(int i=0;i<row;i++){
