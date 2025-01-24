@@ -8,24 +8,32 @@ class Solution {
           dfs(grid,i+1,j);
            dfs(grid,i,j-1);
            dfs(grid,i,j+1);
-           
-
-           
-
             
     }
     public int numEnclaves(int[][] grid) {
         int row=grid.length,col=grid[0].length;
         //Queue<int[]>q=new LinkedList<>();
         for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                if((i==0 || j==0|| i==row-1|| j==col-1)&&grid[i][j]==1){
-                    //q.add(new int[]{i,j});
-                    dfs(grid,i,j);
-                    grid[i][j]=2;
-                }
-            }
+             if(grid[i][0]==1){
+                dfs(grid,i,0);
+             }
         }
+        for(int i=0;i<row;i++){
+             if(grid[i][col-1]==1){
+                 dfs(grid,i,col-1);
+             }
+        }
+        for(int i=0;i<col;i++){
+             if(grid[0][i]==1){
+                 dfs(grid,0,i);
+             }
+        }
+        for(int i=0;i<col;i++){
+             if(grid[row-1][i]==1){
+                 dfs(grid,row-1,i);
+             }
+        }
+       
         // int path[][]={{-1,0},{1,0},{0,1},{0,-1}};
         // while(q.size()>0){
         //     int arr[]=q.poll();
