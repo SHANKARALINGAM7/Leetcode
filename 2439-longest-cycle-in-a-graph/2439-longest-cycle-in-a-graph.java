@@ -8,7 +8,6 @@ class Solution {
             }
             else if(vis[i]==0){
                 int cycle=dfs(i,vis,edges,1);
-                if(cycle==-1)vis[i]=-1;
                 max=Math.max(cycle,max);
             }
         }
@@ -31,6 +30,7 @@ class Solution {
                   vis[nxt]=-1;
                   return (a-b+1);
             }
+        vis[node]=-1;
         return max;
     }
 }
