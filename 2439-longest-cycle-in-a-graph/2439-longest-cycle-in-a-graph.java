@@ -7,8 +7,7 @@ class Solution {
                 vis[i]=-1;
             }
             else if(vis[i]==0){
-                int cycle=dfs(i,vis,edges,1);
-                max=Math.max(cycle,max);
+                max=Math.max(dfs(i,vis,edges,1),max);
             }
         }
         return max;
