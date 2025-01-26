@@ -110,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0813-all-paths-from-source-to-target](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1073-number-of-enclaves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2439-longest-cycle-in-a-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
@@ -150,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0801-is-graph-bipartite](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Tree
 |  |
@@ -201,6 +203,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0207-course-schedule](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0210-course-schedule-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Math
 |  |
 | ------- |
