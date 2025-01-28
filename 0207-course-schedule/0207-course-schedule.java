@@ -1,26 +1,31 @@
 class Solution {
     public boolean canFinish(int num, int[][] arr) {
-        Set<Integer>[]adj=new Set[num];
-        for(int i=0;i<num;i++)adj[i]=new HashSet<>();
-        for(int a[]:arr)adj[a[0]].add(a[1]);
+        List<List<Integer>>adj=new ArrayList<>();
+        for(int i=0;i<num;i++)adj.add(new ArrayList<>());
         int inDeg[]=new int[num];
-        int vis[]=new int[num];
-        int i=0,count=0;
-        for(Set<Integer> a:adj){
-          for(int j:a)inDeg[j]++;
+        for(int a[]:arr){
+            adj.get(a[1]).add(a[0]);
+            inDeg[a[0]]++;
         }
-        Queue<Integer>q=new LinkedList<>();
-        for(int k=0;k<num;k++)if(inDeg[k]==0)q.add(k);
-        while(q.size()>0){
-            int node=q.poll();
+        int count=0;
+       Queue<Integer>q=new LinkedList<>();
+       for(int i=0;i<num;i++){
+        if(inDeg[i]==0){
+            q.add(i);
             count++;
-            vis[node]=-1;
-            for(int val:adj[node]){
-                if(vis[val]!=-1)inDeg[val]--;
-                if(inDeg[val]==0)q.add(val);
+        }
+       } 
+      while(q.size()>0){
+        int node=q.poll();
+        for(int nxt:adj.get(node)){
+            inDeg[nxt]--;
+            if(inDeg[nxt]==0){
+              count++;
+                q.add(nxt);
             }
         }
+      }
 
-        return num==count;
+     return count==num;
     }
 }
