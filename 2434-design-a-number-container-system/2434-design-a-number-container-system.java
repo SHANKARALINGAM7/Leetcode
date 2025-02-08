@@ -10,7 +10,6 @@ class NumberContainers {
         if(index.containsKey(ind)){
             int val=index.get(ind);
             values.get(val).remove(ind);
-            if(values.get(val).size()==0)values.remove(val);
         }
         index.put(ind,number);
          if(!values.containsKey(number))values.put(number,new TreeSet<>());
@@ -18,7 +17,7 @@ class NumberContainers {
     }
     
     public int find(int number) {
-         if(!values.containsKey(number))return -1;
+         if(!values.containsKey(number)||values.get(number).size()==0)return -1;
         return values.get(number).getFirst();
     }
 }
