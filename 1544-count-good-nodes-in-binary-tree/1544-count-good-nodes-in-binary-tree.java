@@ -14,19 +14,19 @@
  * }
  */
 class Solution {
-    int count=0;
     public int goodNodes(TreeNode root) {
-        preorder(root,root.val);
-        return count;
+        int count[]=new int[1];
+        preorder(root,root.val,count);
+        return count[0];
     }
 
-    public void preorder(TreeNode root,int max){
+    public void preorder(TreeNode root,int max,int[] count){
         if(root==null)return ;
         if(max<=root.val){
             max=root.val;
-            count++;
+            count[0]++;
         }
-        preorder(root.left,max);
-        preorder(root.right,max);
+        preorder(root.left,max,count);
+        preorder(root.right,max,count);
     }
 }
