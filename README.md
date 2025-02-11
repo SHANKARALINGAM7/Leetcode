@@ -298,6 +298,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1524-string-matching-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -313,6 +314,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Greedy
 |  |
@@ -380,6 +382,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
