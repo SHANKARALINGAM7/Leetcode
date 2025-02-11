@@ -133,6 +133,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1073-number-of-enclaves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -165,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -215,6 +217,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
@@ -229,6 +232,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
