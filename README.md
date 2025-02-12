@@ -125,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0547-number-of-provinces](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0744-network-delay-time) |
@@ -219,6 +220,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -236,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0543-diameter-of-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
