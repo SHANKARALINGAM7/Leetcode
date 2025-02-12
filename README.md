@@ -117,6 +117,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0133-clone-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -211,6 +212,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0100-same-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -227,6 +229,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0100-same-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -240,6 +243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0275-h-index-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
