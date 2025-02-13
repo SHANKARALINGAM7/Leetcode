@@ -4,14 +4,7 @@ class Solution {
         int dir[][]={{-1,0},{1,0},{0,-1},{0,1}};
         Queue<int[]>q=new LinkedList<>();
         maze[en[0]][en[1]]='+';
-        for(int nxt[]:dir){
-          int x=nxt[0]+en[0],y=nxt[1]+en[1];
-          if(x>=0 && y>=0 && x<row && y<col && maze[x][y]=='.'){
-                 q.add(new int[]{x,y,1});
-                 if(x==0 || x==row-1 || y==0 || y==col-1)return 1;
-                 maze[x][y]='+';
-          }
-        }
+        q.add(new int[]{en[0],en[1],0});
         while(q.size()>0){
             int pos[]=q.poll();
            for(int nxt[]:dir){
