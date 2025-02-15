@@ -113,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
 | [0813-all-paths-from-source-to-target](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0150-evaluate-reverse-polish-notation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1289-day-of-the-week](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1289-day-of-the-week) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
