@@ -114,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0813-all-paths-from-source-to-target](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
@@ -333,6 +334,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
