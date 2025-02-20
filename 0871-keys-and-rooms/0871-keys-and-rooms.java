@@ -1,16 +1,18 @@
 class Solution {
-    Set<Integer>comp=new HashSet<>();
+   int vis[];
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n=rooms.size();
+        vis=new int[n];
         dfs(0,rooms,n);
-        return comp.size()==n;
+       for(int i:vis)if(i==0)return false;
+        return true;
         
     }
 
     public void dfs(int node,List<List<Integer>> adj,int n){
-        comp.add(node);
+        vis[node]=1;
         for(int nxt:adj.get(node)){
-            if(!comp.contains(nxt)){
+            if(vis[nxt]==0){
                 dfs(nxt,adj,n);
             }
         }
