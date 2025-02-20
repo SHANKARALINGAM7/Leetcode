@@ -48,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -115,6 +116,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1331-path-with-maximum-gold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
@@ -282,6 +284,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -340,6 +343,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
