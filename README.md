@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1927-maximum-ascending-subarray-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -276,6 +277,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0907-koko-eating-bananas](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 ## Hash Table
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2434-design-a-number-container-system](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -453,4 +456,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Sliding Window
+|  |
+| ------- |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 <!---LeetCode Topics End-->
