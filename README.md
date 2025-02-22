@@ -149,6 +149,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0871-keys-and-rooms](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1428-jump-game-iii) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -251,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -272,6 +274,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -352,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0583-delete-operation-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0952-word-subsets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1250-longest-common-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
