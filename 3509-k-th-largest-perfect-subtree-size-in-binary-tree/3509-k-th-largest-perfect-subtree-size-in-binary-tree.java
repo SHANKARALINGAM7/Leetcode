@@ -14,13 +14,14 @@
  * }
  */
 class Solution {
-    List<Integer>l=new ArrayList<>();
+    PriorityQueue<Integer>pq=new PriorityQueue<>();
+    int m;
     public int kthLargestPerfectSubtree(TreeNode root, int k) {
+        m=k;
         helper(root);
-        int n=l.size();
+        int n=pq.size();
         if(k>n)return -1;
-        Collections.sort(l);
-        return l.get(n-k);
+        return pq.peek();
 
     }
     public int helper(TreeNode root){
@@ -29,7 +30,11 @@ class Solution {
         int right=helper(root.right);
         if(left==right){
             if(left==0 && (root.left!=null || root.right!=null)) return 0;
-            l.add(left+right+1);
+            if(pq.size()==m && pq.peek()<left+right+1){
+                pq.poll();
+                pq.add(left+right+1);
+            }
+            if(pq.size()<m)pq.add(left+right+1);
             return left+right+1;
         }
         return 0;
