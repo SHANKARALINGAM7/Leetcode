@@ -19,7 +19,6 @@ class Solution {
         helper(root);
         int n=l.size();
         if(k>n)return -1;
-       System.out.println(n);
         Collections.sort(l);
         return l.get(n-k);
 
