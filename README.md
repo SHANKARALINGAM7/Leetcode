@@ -50,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -81,6 +82,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -156,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -195,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -211,6 +215,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
