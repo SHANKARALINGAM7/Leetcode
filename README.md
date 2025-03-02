@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -323,6 +324,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -336,6 +338,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Topological Sort
 |  |
 | ------- |
