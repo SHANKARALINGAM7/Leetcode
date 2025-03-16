@@ -304,6 +304,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0275-h-index-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0907-koko-eating-bananas](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -526,4 +527,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
