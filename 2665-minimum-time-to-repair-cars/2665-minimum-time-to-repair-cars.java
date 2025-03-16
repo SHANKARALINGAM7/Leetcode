@@ -23,7 +23,6 @@ class Solution {
             long val=k/arr[i];
             count+=(long)(Math.sqrt(val));
         }
-        // System.out.println(k+" "+count);
         return count;
     }
 }
