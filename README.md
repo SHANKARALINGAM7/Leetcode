@@ -80,6 +80,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3429-special-array-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3643-zero-array-transformation-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
 |  |
 | ------- |
@@ -401,6 +402,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
