@@ -58,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -97,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -387,6 +389,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1289-day-of-the-week](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1289-day-of-the-week) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -399,6 +402,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0229-majority-element-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0274-h-index) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
