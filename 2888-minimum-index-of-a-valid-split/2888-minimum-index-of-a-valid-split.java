@@ -5,8 +5,6 @@ class Solution {
         int suf[]=new int[n];
         findPre(pre,n,nums);
         findSuf(suf,n,nums);
-        System.out.println(Arrays.toString(pre));
-        System.out.println(Arrays.toString(suf));
         for(int i=0;i<n;i++){
             if((i+1<2*pre[i] && (n-i-1)<2*(suf[i]-1)) || (i+1<2*(pre[i]-1) &&(n-i-1)<2*suf[i])){
                  return i;
