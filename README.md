@@ -71,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -361,6 +362,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -573,4 +575,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
