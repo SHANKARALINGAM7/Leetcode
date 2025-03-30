@@ -345,6 +345,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -381,6 +382,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0088-merge-sorted-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -434,6 +436,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0127-word-ladder](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0127-word-ladder) |
 | [0583-delete-operation-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -475,6 +478,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0044-wildcard-matching) |
+| [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
