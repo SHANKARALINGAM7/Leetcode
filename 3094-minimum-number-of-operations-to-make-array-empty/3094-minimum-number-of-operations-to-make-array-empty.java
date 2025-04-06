@@ -1,15 +1,16 @@
 class Solution {
     public int minOperations(int[] nums) {
-           HashMap<Integer,Integer>hm=new HashMap<>();
+           int arr[]=new int[1000001];
            for(int i:nums){
-               hm.put(i,hm.getOrDefault(i,0)+1);
+               arr[i]++;
            }
            int count=0;
-           for(int i:hm.keySet()){
-                int freq=hm.get(i);
-                if(freq==1)return -1;
-                count+=freq/3;
-                if(freq%3!=0)count++;
+           for(int i:arr){
+                if(i!=0){
+                if(i==1)return -1;
+                count+=i/3;
+                if(i%3!=0)count++;
+                }
            }
            return count;
     }
