@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2292-counting-words-with-a-given-prefix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -373,6 +374,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2434-design-a-number-container-system](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -498,6 +500,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -519,6 +522,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
