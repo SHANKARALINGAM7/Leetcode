@@ -1,17 +1,20 @@
 class Solution {
     public int minOperations(int[] nums) {
-           int arr[]=new int[1000001];
-           for(int i:nums){
-               arr[i]++;
-           }
-           int count=0;
-           for(int i:arr){
-                if(i!=0){
-                if(i==1)return -1;
-                count+=i/3;
-                if(i%3!=0)count++;
-                }
-           }
-           return count;
+          Arrays.sort(nums);
+          int prev=nums[0],ct=1,ans=0,n=nums.length;
+         for(int i=1;i<n;i++){
+              if(prev!=nums[i]){
+                        if(ct==1)return -1;
+                        ans+=ct/3;
+                        if(ct%3!=0)ans++;
+                        ct=0;
+              }
+              ct++; 
+              prev=nums[i];
+         }
+         if(ct==1)return -1;
+         ans+=ct/3;
+         if(ct%3!=0)ans++;
+         return ans;
     }
 }
