@@ -1,17 +1,21 @@
 class Solution {
     public int minimumRounds(int[] nums) {
-          HashMap<Integer,Integer>hm=new HashMap<>();
-           for(int i:nums){
-               hm.put(i,hm.getOrDefault(i,0)+1);
-           }
-           int count=0;
-           for(int i:hm.keySet()){
-                int freq=hm.get(i);
-                if(freq==1)return -1;
-                count+=freq/3;
-                if(freq%3!=0)count++;
-           }
-           return count;
+          Arrays.sort(nums);
+          int prev=nums[0],ct=1,ans=0,n=nums.length;
+         for(int i=1;i<n;i++){
+              if(prev!=nums[i]){
+                        if(ct==1)return -1;
+                        ans+=ct/3;
+                        if(ct%3!=0)ans++;
+                        ct=0;
+              }
+              ct++; 
+              prev=nums[i];
+         }
+         if(ct==1)return -1;
+         ans+=ct/3;
+         if(ct%3!=0)ans++;
+         return ans;
     
     }
 }
