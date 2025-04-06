@@ -1,6 +1,6 @@
 class Solution {
     public int minimumRounds(int[] nums) {
-         HashMap<Integer,Integer>hm=new HashMap<>();
+          HashMap<Integer,Integer>hm=new HashMap<>();
            for(int i:nums){
                hm.put(i,hm.getOrDefault(i,0)+1);
            }
@@ -12,5 +12,6 @@ class Solution {
                 if(freq%3!=0)count++;
            }
            return count;
+    
     }
 }
