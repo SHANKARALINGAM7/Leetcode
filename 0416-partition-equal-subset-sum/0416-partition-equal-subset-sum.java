@@ -8,8 +8,9 @@ class Solution {
     }
 
     public int help(int nums[],int i,int tot,int cur,int dp[][]){
+         
          if(i==nums.length && tot==2*cur)return 1;
-         if(i>=nums.length)return -1;
+         if(cur>=tot || i>=nums.length)return -1;
          if(dp[i][cur]!=0)return dp[i][cur];
          int pick=help(nums,i+1,tot,cur+nums[i],dp);
          int unpick=help(nums,i+1,tot,cur,dp);
