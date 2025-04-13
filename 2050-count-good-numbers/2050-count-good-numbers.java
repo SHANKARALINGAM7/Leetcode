@@ -2,11 +2,11 @@ class Solution {
     public int countGoodNumbers(long n) {
         int mod = 1000000007;
 
-        long evenCount = (n + 1) / 2; 
-        long oddCount = n / 2;       
+        long evenCount = n/2; 
+        long oddCount = n-evenCount;       
 
-        long pow5 = power(5, evenCount, mod);
-        long pow4 = power(4, oddCount, mod);
+        long pow5 = power(4, evenCount, mod);
+        long pow4 = power(5, oddCount, mod);
 
         return (int)((pow5 * pow4) % mod);
     }
