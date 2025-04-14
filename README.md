@@ -52,6 +52,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1656-count-good-triplets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -625,6 +626,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1656-count-good-triplets) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2998-count-symmetric-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
