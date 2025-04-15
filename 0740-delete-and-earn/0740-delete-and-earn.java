@@ -10,7 +10,7 @@ class Solution {
         int dp[]=new int[len];
         for(int i:hm.keySet()){
             arr[j][0]=i;
-            arr[j][1]=hm.get(i);
+            arr[j][1]=hm.get(i)*i;
             j++;
         }
        return help(0,arr,dp);
@@ -20,8 +20,8 @@ class Solution {
         if(i>=nums.length)return 0;
         if(dp[i]!=0)return dp[i];
         int pick=0,unpick=0;
-        if(i+1<nums.length && nums[i+1][0]!=nums[i][0]+1)pick=(nums[i][0]*nums[i][1])+help(i+1,nums,dp);
-        else pick=(nums[i][0]*nums[i][1])+help(i+2,nums,dp);
+        if(i+1<nums.length && nums[i+1][0]!=nums[i][0]+1)pick=nums[i][1]+help(i+1,nums,dp);
+        else pick=nums[i][1]+help(i+2,nums,dp);
         unpick=help(i+1,nums,dp);
         return dp[i]=Math.max(pick,unpick);
         
