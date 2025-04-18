@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1171-shortest-path-in-binary-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1364-tuple-with-same-product](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1428-jump-game-iii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1428-jump-game-iii) |
@@ -441,6 +442,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1289-day-of-the-week](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1289-day-of-the-week) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2050-count-good-numbers) |
@@ -671,4 +673,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
