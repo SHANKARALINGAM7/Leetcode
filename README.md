@@ -474,6 +474,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0127-word-ladder) |
