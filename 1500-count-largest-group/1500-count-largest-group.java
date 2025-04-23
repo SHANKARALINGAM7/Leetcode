@@ -5,7 +5,7 @@ class Solution {
         for(int i=1;i<=n;i++){
             int num = help(i);
             freq[num]++;
-            max=Math.max(max,freq[num]);
+            if(max<freq[num])max=freq[num];
         }
        int count = 0;
        for(int i : freq) if(i==max)count++;
