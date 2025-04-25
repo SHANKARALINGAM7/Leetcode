@@ -93,6 +93,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
+| [2915-count-of-interesting-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -140,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2358-number-of-ways-to-split-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2915-count-of-interesting-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3643-zero-array-transformation-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
@@ -413,6 +415,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2915-count-of-interesting-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
