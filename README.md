@@ -50,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1364-tuple-with-same-product](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1428-jump-game-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -459,6 +460,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0368-largest-divisible-subset](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1289-day-of-the-week](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1289-day-of-the-week) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
