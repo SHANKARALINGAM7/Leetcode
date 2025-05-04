@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1331-path-with-maximum-gold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -402,6 +403,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1039-find-the-town-judge](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1487-cinema-seat-allocation) |
@@ -575,6 +577,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0229-majority-element-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0274-h-index) |
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
