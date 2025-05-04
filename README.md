@@ -168,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0583-delete-operation-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0740-delete-and-earn) |
+| [0868-push-dominoes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -445,6 +446,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0202-happy-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0868-push-dominoes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -509,6 +511,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0583-delete-operation-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1160-letter-tile-possibilities) |
