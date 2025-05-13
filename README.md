@@ -185,6 +185,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2562-count-ways-to-build-good-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -442,6 +443,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
@@ -489,6 +491,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -549,6 +552,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
 |  |
 | ------- |
@@ -601,6 +605,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
