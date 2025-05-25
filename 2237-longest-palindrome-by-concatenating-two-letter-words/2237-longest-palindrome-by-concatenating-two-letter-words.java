@@ -1,32 +1,37 @@
 class Solution {
     public int longestPalindrome(String[] words) {
-        HashMap<String,Integer> hm = new HashMap<>();
-        int maxOdd=0;
-        for(String s :  words){
-            hm.put(s,hm.getOrDefault(s,0)+1);
-        }
-        int ans = 0;
-        for(String s : hm.keySet()){
-            int val=hm.get(s);
-             if(s.charAt(0) == s.charAt(1)){
-                        if(val%2==0)ans += (2*val);
-                        else{
-                            if(maxOdd<=val){
-                                if(maxOdd-1>=0)ans += (2*(maxOdd-1));
-                                maxOdd=val;
-                            }
-                            else ans += (2*(val-1));
-                        }
-             } 
-             else{
-                 String rev= new StringBuffer(s).reverse().toString();
-                 if(hm.containsKey(rev)){
-                     ans += 2*(Math.min(val,hm.get(rev)));
-                    
-                 }
-             }
+        Map<String, Integer> map = new HashMap<>();
+        int result = 0;
+        int centralPalindromeUsed = 0;
+
+        for (String word : words) {
+            map.put(word, map.getOrDefault(word, 0) + 1);
         }
 
-        return ans+(2*maxOdd);
+        for (String word : map.keySet()) {
+            String reversed = new StringBuilder(word).reverse().toString();
+            int count = map.get(word);
+
+            // Case 1: word is a palindrome itself (like "aa", "cc")
+            if (word.charAt(0) == word.charAt(1)) {
+                // Use pairs
+                result += (count / 2) * 4;
+                // Save one for the center if available and not used yet
+                if (count % 2 == 1 && centralPalindromeUsed == 0) {
+                    result += 2;
+                    centralPalindromeUsed = 1;
+                }
+            }
+            // Case 2: word and its reverse are different (like "ab" and "ba")
+            else if (map.containsKey(reversed)) {
+                int minPairs = Math.min(count, map.get(reversed));
+                result += minPairs * 4;
+                // Mark both as used
+                map.put(word, 0);
+                map.put(reversed, 0);
+            }
+        }
+
+        return result;
     }
 }
