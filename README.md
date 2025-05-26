@@ -481,6 +481,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0368-largest-divisible-subset) |
