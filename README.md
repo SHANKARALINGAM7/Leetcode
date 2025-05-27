@@ -100,6 +100,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -190,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -203,6 +205,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
@@ -520,6 +523,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -597,6 +601,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -632,6 +637,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2509-minimize-xor) |
+| [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## String Matching
 |  |
@@ -727,6 +733,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1656-count-good-triplets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1656-count-good-triplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2998-count-symmetric-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
