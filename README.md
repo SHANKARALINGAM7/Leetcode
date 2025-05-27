@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1364-tuple-with-same-product](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1428-jump-game-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -396,6 +397,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0907-koko-eating-bananas](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2165-plates-between-candles](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2165-plates-between-candles) |
