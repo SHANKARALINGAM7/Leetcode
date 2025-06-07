@@ -454,6 +454,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -571,6 +572,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3207-make-three-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -587,6 +589,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2317-count-collisions-on-a-road](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
 | ------- |
@@ -606,6 +609,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Recursion
 |  |
 | ------- |
@@ -676,6 +680,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
