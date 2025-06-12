@@ -66,6 +66,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -432,6 +433,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1500-count-largest-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -602,6 +604,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1487-cinema-seat-allocation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -629,6 +632,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1396-count-servers-that-communicate](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
