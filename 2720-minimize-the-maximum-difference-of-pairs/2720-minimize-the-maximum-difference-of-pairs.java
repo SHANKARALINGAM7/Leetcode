@@ -20,7 +20,7 @@ class Solution {
         int ans = 0;
         while(low<=high){
 
-              int mid = low+(high-low)/2;
+              int mid = (high+low)/2;
               if(helper(arr,mid)>=p){
                   ans = mid;
                   high = mid-1;
