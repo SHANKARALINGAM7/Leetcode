@@ -504,6 +504,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -609,6 +610,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1487-cinema-seat-allocation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
