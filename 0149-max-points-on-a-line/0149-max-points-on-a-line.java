@@ -15,9 +15,7 @@ class Solution {
             HashMap<String,Integer> map = new HashMap<>();
             int max = 0;
              for(int j=i+1;j<n;j++){
-                // if(i==j)continue;
                    String find =  helper(points[i],points[j]);
-                //    System.out.println(find);
                    map.put(find,map.getOrDefault(find,0)+1);
                    max = Math.max(max,map.get(find));
              }
