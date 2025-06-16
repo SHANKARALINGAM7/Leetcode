@@ -95,6 +95,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -488,6 +489,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0868-push-dominoes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0868-push-dominoes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Topological Sort
@@ -542,6 +544,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
@@ -626,6 +629,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
