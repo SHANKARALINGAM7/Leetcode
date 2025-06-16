@@ -5,32 +5,17 @@ class Solution {
         if(tot%3 != 0) return false;
         int each = tot/3 , sum = 0;
         int i = 0 , n = arr.length;
+        int count =0;
         while(i<n){
             sum += arr[i];
             i++;
             if(sum == each){
                 sum = 0;
-                break;
+                count++;
             }
         }
-        if(i>=n) return false;
-        while(i<n){
-            sum += arr[i];
-            i++;
-            if(sum == each){
-                sum = 0;
-                break;
-            }
-        }
-        if(i>=n) return false;
-        while(i<n){
-            sum += arr[i];
-            i++;
-            if(sum == each){
-                break;
-            }
-        }
+       
    
-        return sum == each;
+        return count>=3;
     }
 }
