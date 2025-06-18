@@ -803,4 +803,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0595-big-countries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
