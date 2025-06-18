@@ -1,7 +1,7 @@
 class Solution {
     public double helper(int x[] ,int y[]){
          if (y[0] - x[0] == 0) { 
-            return Double.POSITIVE_INFINITY;
+            return 100000;
          }
           double slope = (double)(y[1]-x[1])/(y[0]-x[0]);
 
