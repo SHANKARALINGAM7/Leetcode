@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1487-cinema-seat-allocation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1524-string-matching-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1656-count-good-triplets) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -415,6 +416,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2165-plates-between-candles](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2165-plates-between-candles) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
