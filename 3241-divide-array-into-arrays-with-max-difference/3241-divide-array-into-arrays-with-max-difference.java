@@ -1,6 +1,10 @@
 class Solution {
     public int[][] divideArray(int[] arr, int k) {
-        Arrays.sort(arr);
+        Thread t1 = new Thread(() -> Arrays.sort(arr));
+         t1.start();
+         try{
+            t1.join();
+        }catch(Exception e){}
         int n = arr.length;
         int ans [][] = new int[n/3][3];
         int j = 0;
