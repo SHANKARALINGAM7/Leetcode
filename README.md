@@ -186,6 +186,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0032-longest-valid-parentheses](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -512,6 +513,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0202-happy-number) |
@@ -818,4 +820,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
