@@ -465,6 +465,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2445-reachable-nodes-with-restrictions](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
@@ -603,6 +604,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2465-shifting-letters-ii) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3207-make-three-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3207-make-three-strings-equal) |
@@ -680,6 +682,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2308-divide-array-into-equal-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2448-count-number-of-bad-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
