@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0322-coin-change](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0494-target-sum) |
@@ -149,6 +150,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0854-making-a-large-island) |
@@ -422,6 +424,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0275-h-index-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -561,6 +564,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0229-majority-element-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -739,6 +743,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-network-delay-time](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0744-network-delay-time) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
