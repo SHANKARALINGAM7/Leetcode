@@ -242,6 +242,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -643,6 +644,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -732,6 +734,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2509-minimize-xor](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2509-minimize-xor) |
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## String Matching
 |  |
 | ------- |
