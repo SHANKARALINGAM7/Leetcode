@@ -568,6 +568,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3243-count-the-number-of-powerful-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3321-type-of-triangle) |
 | [3374-count-alternating-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sorting
 |  |
@@ -700,6 +701,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0044-wildcard-matching](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0044-wildcard-matching) |
 | [2050-count-good-numbers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -735,6 +737,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
@@ -792,6 +795,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2317-count-collisions-on-a-road](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
