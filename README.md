@@ -578,6 +578,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3321-type-of-triangle) |
 | [3374-count-alternating-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
