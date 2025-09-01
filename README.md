@@ -465,6 +465,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0133-clone-graph) |
 | [0149-max-points-on-a-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0149-max-points-on-a-line) |
@@ -618,6 +619,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0044-wildcard-matching) |
@@ -829,6 +831,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
