@@ -587,6 +587,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3374-count-alternating-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3830-find-closest-person](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
 | ------- |
