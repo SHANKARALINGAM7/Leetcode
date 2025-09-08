@@ -566,6 +566,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1289-day-of-the-week](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1289-day-of-the-week) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1500-count-largest-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
