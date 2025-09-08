@@ -3,9 +3,19 @@ class Solution {
 
         int i = 1, j = n - 1;
         for (; i < j; i++, j--) {
-            if (!Integer.toString(i).contains("0") && !Integer.toString(j).contains("0"))
+            if ( help(i) && help(j) )
                 return new int[] { i, j };
         }
         return new int[] { i, j };
+    }
+
+    public boolean help(int n){
+        while(n>0){
+           if(n%10 == 0){
+            return false;
+           }
+           n /= 10;
+        }
+        return true;
     }
 }
