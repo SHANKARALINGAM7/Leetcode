@@ -196,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2145-grid-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2145-grid-game) |
 | [2165-plates-between-candles](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2165-plates-between-candles) |
 | [2249-count-the-hidden-sequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2358-number-of-ways-to-split-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -232,6 +233,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
@@ -660,6 +662,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2317-count-collisions-on-a-road](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2317-count-collisions-on-a-road) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2465-shifting-letters-ii) |
