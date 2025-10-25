@@ -159,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |
@@ -531,6 +532,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
