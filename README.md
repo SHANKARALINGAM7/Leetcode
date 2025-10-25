@@ -159,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4045-longest-balanced-subarray-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
@@ -206,6 +207,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2915-count-of-interesting-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -532,6 +534,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4045-longest-balanced-subarray-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -871,6 +874,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0240-search-a-2d-matrix-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Interactive
 |  |
 | ------- |
@@ -895,6 +899,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
