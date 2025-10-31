@@ -151,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3374-count-alternating-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3429-special-array-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -530,6 +531,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -599,6 +601,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3321-type-of-triangle) |
 | [3374-count-alternating-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
