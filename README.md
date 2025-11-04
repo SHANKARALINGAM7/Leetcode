@@ -154,6 +154,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3429-special-array-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -536,6 +537,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3455-minimum-length-of-string-after-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -829,6 +831,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2681-put-marbles-in-bags](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -879,6 +882,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
