@@ -49,6 +49,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0735-asteroid-collision](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0740-delete-and-earn) |
 | [0794-swim-in-rising-water](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0841-shortest-distance-to-a-character](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0854-making-a-large-island](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -565,6 +566,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0868-push-dominoes) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -664,6 +666,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0583-delete-operation-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0768-partition-labels) |
+| [0841-shortest-distance-to-a-character](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
