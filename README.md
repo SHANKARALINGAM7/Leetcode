@@ -513,6 +513,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1487-cinema-seat-allocation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1500-count-largest-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1540-can-convert-string-in-k-moves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -686,6 +687,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1502-construct-k-palindrome-strings](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1540-can-convert-string-in-k-moves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
