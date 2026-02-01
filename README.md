@@ -139,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2893-visit-array-positions-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2915-count-of-interesting-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -655,6 +656,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3321-type-of-triangle) |
@@ -930,6 +932,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2998-count-symmetric-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
 |  |
 | ------- |
