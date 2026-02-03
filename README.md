@@ -162,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3583-count-special-triplets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3637-trionic-array-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
