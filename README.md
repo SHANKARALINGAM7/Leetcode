@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2740-find-the-value-of-the-partition](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
@@ -540,6 +541,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -911,6 +913,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
