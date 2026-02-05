@@ -157,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3374-count-alternating-subarrays](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3379-transformed-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -884,6 +885,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2324-find-triangular-sum-of-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3379-transformed-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
