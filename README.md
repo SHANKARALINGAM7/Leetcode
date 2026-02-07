@@ -250,6 +250,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1063-best-sightseeing-pair](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -699,6 +700,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1524-string-matching-in-an-array](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1540-can-convert-string-in-k-moves](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1540-can-convert-string-in-k-moves) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -738,6 +740,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0150-evaluate-reverse-polish-notation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0735-asteroid-collision](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/0735-asteroid-collision) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2317-count-collisions-on-a-road](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2317-count-collisions-on-a-road) |
