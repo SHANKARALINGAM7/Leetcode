@@ -560,6 +560,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3713-longest-balanced-substring-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3863-power-grid-maintenance](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3863-power-grid-maintenance) |
@@ -731,6 +732,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
@@ -813,6 +815,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3713-longest-balanced-substring-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
@@ -947,6 +950,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2754-maximum-strength-of-a-group](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2754-maximum-strength-of-a-group) |
 | [2998-count-symmetric-integers](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
