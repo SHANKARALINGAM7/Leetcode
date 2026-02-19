@@ -89,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1876-map-of-highest-peak](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2032-two-out-of-three](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2032-two-out-of-three) |
 | [2035-count-sub-islands](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -524,6 +525,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-two-out-of-three](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2032-two-out-of-three) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -826,6 +828,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1018-binary-prefix-divisible-by-5](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1487-cinema-seat-allocation](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/1487-cinema-seat-allocation) |
+| [2032-two-out-of-three](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2032-two-out-of-three) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2509-minimize-xor](https://github.com/SHANKARALINGAM7/Leetcode/tree/master/2509-minimize-xor) |
